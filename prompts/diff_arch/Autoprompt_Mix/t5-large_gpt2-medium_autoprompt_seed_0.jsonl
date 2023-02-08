@@ -1,0 +1,41 @@
+{"relation": "P1001", "template": "[X]although economic statistics consistently rank [Y]. ", "tokens": ["although", "\u2581economic", "\u2581statistics", "\u2581consistently", "\u2581rank"]}
+{"relation": "P101", "template": "[X] vitamins geometricography biography mathematical [Y]. ", "tokens": ["\u2581vitamins", "\u2581geometric", "ography", "\u2581biography", "\u2581mathematical"]}
+{"relation": "P103", "template": "[X]\u00f4t flat blondetrimmed spoken [Y]. ", "tokens": ["\u00f4t", "\u2581flat", "\u2581blonde", "trimmed", "\u2581spoken"]}
+{"relation": "P106", "template": "[X] c\u0103l\u0103tori politicians gradini actress gradini [Y]. ", "tokens": ["\u2581c\u0103l\u0103tori", "\u2581politicians", "\u2581gradini", "\u2581actress", "\u2581gradini"]}
+{"relation": "P108", "template": "[X]headquartered patentmicrosoft eBaymicrosoft [Y]. ", "tokens": ["headquartered", "\u2581patent", "microsoft", "\u2581eBay", "microsoft"]}
+{"relation": "P127", "template": "[X] \u2022 organizations eBay \u2022 cities [Y]. ", "tokens": ["\u2581\u2022", "\u2581organizations", "\u2581eBay", "\u2581\u2022", "\u2581cities"]}
+{"relation": "P1303", "template": "[X] music ivory flute german electric [Y]. ", "tokens": ["\u2581music", "\u2581ivory", "\u2581flute", "\u2581german", "\u2581electric"]}
+{"relation": "P131", "template": "[X]esque signage circles southern central [Y]. ", "tokens": ["esque", "\u2581signage", "\u2581circles", "\u2581southern", "\u2581central"]}
+{"relation": "P136", "template": "[X] quartet superhero trumpet soul historical [Y]. ", "tokens": ["\u2581quartet", "\u2581superhero", "\u2581trumpet", "\u2581soul", "\u2581historical"]}
+{"relation": "P1376", "template": "[X] satisfac county medal champion representing [Y]. ", "tokens": ["\u2581satisfac", "\u2581county", "\u2581medal", "\u2581champion", "\u2581representing"]}
+{"relation": "P138", "template": "[X]liners resignation anger resignation coverage [Y]. ", "tokens": ["liners", "\u2581resignation", "\u2581anger", "\u2581resignation", "\u2581coverage"]}
+{"relation": "P140", "template": "[X] evangelical religion arab religion sufletul [Y]. ", "tokens": ["\u2581evangelical", "\u2581religion", "\u2581arab", "\u2581religion", "\u2581sufletul"]}
+{"relation": "P1412", "template": "[X] bilingual predominantly speaks nativeborn [Y]. ", "tokens": ["\u2581bilingual", "\u2581predominantly", "\u2581speaks", "\u2581native", "born"]}
+{"relation": "P159", "template": "[X]official mediation servicesheadquartered in [Y]. ", "tokens": ["official", "\u2581mediation", "\u2581services", "headquartered", "\u2581in"]}
+{"relation": "P17", "template": "[X]elloraz railway borders mainland [Y]. ", "tokens": ["ello", "raz", "\u2581railway", "\u2581borders", "\u2581mainland"]}
+{"relation": "P176", "template": "[X]baum firmhonda japan [Y]. ", "tokens": ["baum", "\u2581firm", "honda", "\u2581ja", "pan"]}
+{"relation": "P178", "template": "[X]architecture companies intermicrosoft eBay [Y]. ", "tokens": ["architecture", "\u2581companies", "\u2581inter", "microsoft", "\u2581eBay"]}
+{"relation": "P19", "template": "[X]cornplatte buildings around central [Y]. ", "tokens": ["corn", "platte", "\u2581buildings", "\u2581around", "\u2581central"]}
+{"relation": "P190", "template": "[X]10.1conference 1969Zembassy [Y]. ", "tokens": ["10.1", "conference", "\u25811969", "Z", "embassy"]}
+{"relation": "P20", "template": "[X]cher railway luxury airfare between [Y]. ", "tokens": ["cher", "\u2581railway", "\u2581luxury", "\u2581airfare", "\u2581between"]}
+{"relation": "P264", "template": "[X] iOS $50,000 liberty crestere $10,000 [Y]. ", "tokens": ["\u2581iOS", "\u2581$50,000", "\u2581liberty", "\u2581crestere", "\u2581$10,000"]}
+{"relation": "P27", "template": "[X] telescope category telescopedev country [Y]. ", "tokens": ["\u2581telescope", "\u2581category", "\u2581telescope", "dev", "\u2581country"]}
+{"relation": "P276", "template": "[X] booking superstar\u00c9berlin visits [Y]. ", "tokens": ["\u2581booking", "\u2581superstar", "\u00c9", "berlin", "\u2581visits"]}
+{"relation": "P279", "template": "[X](formerly coconut adaptatory [Y]. ", "tokens": ["(", "formerly", "\u2581coconut", "\u2581adapt", "atory"]}
+{"relation": "P30", "template": "[X]fax vulnerabilitiesopera continentopera [Y]. ", "tokens": ["fax", "\u2581vulnerabilities", "opera", "\u2581continent", "opera"]}
+{"relation": "P31", "template": "[X]pusl\u00e2ng\u0103 eventually historic standalone [Y]. ", "tokens": ["pus", "l\u00e2ng\u0103", "\u2581eventually", "\u2581historic", "\u2581standalone"]}
+{"relation": "P36", "template": "[X]parliamentary diploma hopeful outside downtown [Y]. ", "tokens": ["parliamentary", "\u2581diploma", "\u2581hopeful", "\u2581outside", "\u2581downtown"]}
+{"relation": "P361", "template": "[X] 1956 basics explaining (1) 1956 [Y]. ", "tokens": ["\u25811956", "\u2581basics", "\u2581explaining", "\u2581(1)", "\u25811956"]}
+{"relation": "P364", "template": "[X]vita pastry (3 languages including [Y]. ", "tokens": ["vita", "\u2581pastry", "\u2581(3", "\u2581languages", "\u2581including"]}
+{"relation": "P37", "template": "[X]l\u00e4 ethnic goddess taie indigenous [Y]. ", "tokens": ["l\u00e4", "\u2581ethnic", "\u2581goddess", "\u2581taie", "\u2581indigenous"]}
+{"relation": "P39", "template": "[X] monarch priestiocese captainiocese [Y]. ", "tokens": ["\u2581monarch", "\u2581priest", "iocese", "\u2581captain", "iocese"]}
+{"relation": "P407", "template": "[X] bilingual sports dialect replacing ordinary [Y]. ", "tokens": ["\u2581bilingual", "\u2581sports", "\u2581dialect", "\u2581replacing", "\u2581ordinary"]}
+{"relation": "P413", "template": "[X] volleyball pavilion honored retired backup [Y]. ", "tokens": ["\u2581volleyball", "\u2581pavilion", "\u2581honored", "\u2581retired", "\u2581backup"]}
+{"relation": "P449", "template": "[X]sche television television 1952ney [Y]. ", "tokens": ["sche", "\u2581television", "\u2581television", "\u25811952", "ney"]}
+{"relation": "P463", "template": "[X] jumatate superhero volunteers attending 2019 [Y]. ", "tokens": ["\u2581jumatate", "\u2581superhero", "\u2581volunteers", "\u2581attending", "\u25812019"]}
+{"relation": "P47", "template": "[X] scoate 180 streets borders southern [Y]. ", "tokens": ["\u2581scoate", "\u2581180", "\u2581streets", "\u2581borders", "\u2581southern"]}
+{"relation": "P495", "template": "[X] bulk brewery countries*aka [Y]. ", "tokens": ["\u2581bulk", "\u2581brewery", "\u2581countries", "*", "aka"]}
+{"relation": "P527", "template": "[X]rox gama\u00f6hr pulled excess [Y]. ", "tokens": ["rox", "\u2581gama", "\u00f6hr", "\u2581pulled", "\u2581excess"]}
+{"relation": "P530", "template": "[X] adj chop dockografia3) [Y]. ", "tokens": ["\u2581adj", "\u2581chop", "\u2581dock", "ografia", "3)"]}
+{"relation": "P740", "template": "[X]borough 2019,Ucriptexpo [Y]. ", "tokens": ["borough", "\u25812019,", "U", "cript", "expo"]}
+{"relation": "P937", "template": "[X] russischopathic exhibition near central [Y]. ", "tokens": ["\u2581russisch", "opathic", "\u2581exhibition", "\u2581near", "\u2581central"]}

@@ -1,0 +1,41 @@
+{"relation":"P1001","template":"[X] is the legal expression in [Y]."}
+{"relation":"P101","template":"[X] works in the field of [Y] ."}
+{"relation":"P103","template":"The native language of [X] is [Y]"}
+{"relation":"P106","template":"[X] is a [Y]."}
+{"relation":"P108","template":"[X] is working for [Y]."}
+{"relation":"P127","template":"[X] is a property of [Y]."}
+{"relation":"P1303","template":"[X] playing [Y]."}
+{"relation":"P131","template":"[X] is located in [Y] ."}
+{"relation":"P136","template":"[X] is playing [Y] music."}
+{"relation":"P1376","template":"[X] is the capital city of [Y]."}
+{"relation":"P138","template":"[X] has the name [Y]."}
+{"relation":"P140","template":"[X] is connected to the religion [Y]."}
+{"relation":"P1412","template":"[X] in order to communicate in [Y]"}
+{"relation":"P159","template":"[X] has its headquarters in [Y]."}
+{"relation":"P17","template":"[X] is found in [Y]."}
+{"relation":"P176","template":"[X] is manufactured by [Y]."}
+{"relation":"P178","template":"[X] is developed by [Y] ."}
+{"relation":"P19","template":"[X] was born in [Y] ."}
+{"relation":"P190","template":"[X] and [Y] are twin cities"}
+{"relation":"P20","template":"[X] died in [Y] ."}
+{"relation":"P264","template":"[X] is represented by the record label [Y]."}
+{"relation":"P27","template":"[X] is a citizen of [Y]."}
+{"relation":"P276","template":"[X] is located in [Y] ."}
+{"relation":"P279","template":"[X] is a lower layer of [Y]."}
+{"relation":"P30","template":"[X] lies in [Y]."}
+{"relation":"P31","template":"[X] is a [Y] ."}
+{"relation":"P36","template":"[X] \"s capital is [Y]."}
+{"relation":"P361","template":"[X] is a component of [Y]."}
+{"relation":"P364","template":"The original language of [X] was [Y]."}
+{"relation":"P37","template":"The official language [X] is [Y]."}
+{"relation":"P39","template":"[X] is the status of [Y]."}
+{"relation":"P407","template":"[X] is written in [Y]."}
+{"relation":"P413","template":"[X] play in [Y] position."}
+{"relation":"P449","template":"[X] originally aired on [Y]."}
+{"relation":"P463","template":"[X] is a member of [Y] ."}
+{"relation":"P47","template":"[X] shares common boundaries with [Y]."}
+{"relation":"P495","template":"[X] is made in [Y]."}
+{"relation":"P527","template":"[X] is made of [Y]"}
+{"relation":"P530","template":"[X] maintains diplomatic relations with [Y] ."}
+{"relation":"P740","template":"[X] was born in [Y]."}
+{"relation":"P937","template":"[X] was working in [Y]."}
