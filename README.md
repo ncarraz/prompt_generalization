@@ -1,5 +1,5 @@
 # Prompt generalization
-This repository gathers the data and code for the paper Can discrete information extraction prompts generalize across language models?
+This repository gathers the data and code for the paper [Can discrete information extraction prompts generalize across language models?](https://arxiv.org/abs/2302.09865)
 
 <img align="middle" src="img/experimental_setup.png" height="256" alt="LAMA">
 
